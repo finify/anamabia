@@ -125,7 +125,7 @@
                                             <div class="icon">
                                                 <span class="icon-email-1"></span>
                                             </div>
-                                            <div class="text">
+                                            <div class="text"> 
                                                 <p>
                                                     <a href="mailto:info@anamabia.com">info@anamabia.com</a>
                                                 </p>

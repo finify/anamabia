@@ -241,7 +241,7 @@
 				</div>
 				<!--End Header Middle-->
 
-				<!--Start Header Right-->
+				<!--Start Header Right--> 
 				<div class="header-right">
 					<div class="phone-number-box1">
 						<div class="icon">
