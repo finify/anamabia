@@ -96,7 +96,7 @@ class PHPMailerOAuth extends PHPMailer
             return true;
         }
 
-        $this->smtp->setTimeout($this->Timeout);
+        $this->smtp->setTimeout($this->Timeout); 
         $this->smtp->setDebugLevel($this->SMTPDebug);
         $this->smtp->setDebugOutput($this->Debugoutput);
         $this->smtp->setVerp($this->do_verp);
