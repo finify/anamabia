@@ -162,7 +162,7 @@
                                 </li> -->
                                 <li>
                                     <div class="img-box">
-                                        <img src="homeassets/images/about/truckdriver.jpeg" alt="">
+                                        <img src="homeassets/images/anamabia/aimage8.jpg" alt="">
                                     </div>
                                 </li>
                             </ul>
@@ -412,14 +412,14 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-features-style2-box">
                             <div class="img-bg"
-                                style="background-image: url(homeassets/images/resources/features-style2-1.jpg);"></div>
+                                style="background-image: url(homeassets/images/anamabia/aimage2.jpg);"></div>
                         </div>
                     </div>
 
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-features-style2-box">
                             <div class="img-bg"
-                                style="background-image: url(homeassets/images/resources/features-style2-2.jpg);"></div>
+                                style="background-image: url(homeassets/images/anamabia/aimage3.jpg);"></div>
                         </div>
                     </div>
 
