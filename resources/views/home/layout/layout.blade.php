@@ -54,9 +54,9 @@
     <link rel="stylesheet" href="homeassets/css/style.css">
     <link rel="stylesheet" href="homeassets/css/responsive.css">
     <!-- Favicon -->
-    <link rel="apple-touch-icon" sizes="180x180" href="homeassets/images/favicon/apple-touch-icon.png">
-    <link rel="icon" type="image/png" href="homeassets/images/favicon/favicon-32x32.png" sizes="32x32">
-    <link rel="icon" type="image/png" href="homeassets/images/favicon/favicon-16x16.png" sizes="16x16">
+    <link rel="apple-touch-icon" sizes="180x180" href="homeassets/images/anamabialogo.png">
+    <link rel="icon" type="image/png" href="homeassets/images/anamabialogo.png" sizes="32x32">
+    <link rel="icon" type="image/png" href="homeassets/images/anamabialogo.png" sizes="16x16">
 
     <!-- Fixing Internet Explorer-->
     <!--[if lt IE 9]>

@@ -39,7 +39,7 @@
 
 				<div class="header-top__right">
 					<div class="header-button-style1">
-						<a class="btn-one" href="/contact">
+						<a class="btn-one" href="tel:2348033132557"a>
 							<span class="txt">
 								Request for a pickup<i class="icon-refresh arrow"></i>
 							</span>
@@ -59,7 +59,7 @@
 				<!--Start Header Left-->
 				<div class="header-left">
 					<div class="main-logo-box">
-						<a href="index.html">
+						<a href="/">
 							<img src="homeassets/images/anamabialogo.png" alt="Awesome Logo" width="100px" title="">
 						</a>
 					</div>

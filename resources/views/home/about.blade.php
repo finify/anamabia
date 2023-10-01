@@ -11,7 +11,7 @@
 				<div class="inner-content">
 					<div class="breadcrumb-menu" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="/">Home</a></li>
 							<li class="active">About Us</li>
 						</ul>
 					</div>
@@ -37,10 +37,10 @@
 			<div class="col-xl-7">
 				<div class="about-style3__img-box">
 					<div class="inner">
-						<img src="homeassets/images/about/about-style3-img.jpg" alt="">
+						<img src="homeassets/images/anamabia/aimage6.jpg" alt="">
 					</div>
 					<div class="about-style3-experience">
-						<p>We have <span>30+ years</span> of experiences</p>
+						<p>We have <span>3+ years</span> of experiences</p>
 					</div>
 				</div>
 			</div>
@@ -54,7 +54,7 @@
 						<h2>Company Offering all<br> Waste Mangement<br> Services</h2>
 					</div>
 
-					<ul>
+					<!-- <ul>
 						<li>
 							<span class="icon-check-mark-button"></span>
 							<h3>We’re Professional</h3>
@@ -65,12 +65,10 @@
 							<h3>We’re Professional</h3>
 							<p>Lorem ipsum is simply free<br> dolor sit amet.</p>
 						</li>
-					</ul>
+					</ul> -->
 
 					<div class="text">
-						<p>There are many variations of passages of psum available, but the majority have
-							suffered alteration in some form, by injected humour, or some form, by injected
-							randomised words.</p>
+						<p>Sustainable waste management is major challenge in west Africa and if left unattended could have severe implications for the Environment. Anamabia Nigeria Limited was established to deliver effective waste management by applying best in class innovative solutions.</p>
 					</div>
 
 					<div class="author-box">
@@ -79,7 +77,7 @@
 						</div>
 
 						<div class="title">
-							<h2>Kevin Martin</h2>
+							<h2>Engr. Okenwa Chudi</h2>
 							<span>Founder and CEO</span>
 						</div>
 					</div>
@@ -232,11 +230,11 @@
 							<img src="homeassets/images/team/team-v1-1.jpg" alt="" />
 						</div>
 						<div class="title-holder text-center">
-							<h2><a href="#">Mike Hardson</a></h2>
-							<h3>Accountant</h3>
+							<h2><a href="#">Engr. Chudi Okenwa</a></h2>
+							<h3>Founder & CEO</h3>
 							<div class="overlay-title">
-								<h2><a href="#">Mike Hardson</a></h2>
-								<h3>Accountant</h3>
+								<h2><a href="#">Engr. Chudi Okenwa</a></h2>
+								<h3>Founder & CEO</h3>
 								<ul class="social-links">
 									<li><a href="#"><i class="icon-twitter"></i></a></li>
 									<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -257,11 +255,11 @@
 							<img src="homeassets/images/team/team-v1-2.jpg" alt="" />
 						</div>
 						<div class="title-holder text-center">
-							<h2><a href="#">Aleesha Brown</a></h2>
-							<h3>Co- Founder</h3>
+							<h2><a href="#">Dame Eunice Okenwa</a></h2>
+							<h3>Chief Accountant</h3>
 							<div class="overlay-title">
 								<h2><a href="#">Aleesha Brown</a></h2>
-								<h3>Co- Founder</h3>
+								<h3>Chief Accountant</h3>
 								<ul class="social-links">
 									<li><a href="#"><i class="icon-twitter"></i></a></li>
 									<li><a href="#"><i class="icon-facebook"></i></a></li>
@@ -316,21 +314,19 @@
 					</div>
 					<div class="phone">
 						<p>Have any questions?</p>
-						<a href="tel:123456789">+1-(246) 333-0089</a>
+						<a href="tel:+2348033132557">+2348033132557</a>
 					</div>
 				</div>
 			</div>
 
 			<div class="col-xl-4">
 				<div class="slogan-text-box">
-					<p>Lorem ipsum dolor sit amet nsectetur
-						cing elituspe ndisse suscipit sagitis
-						leo sit.</p>
+					<p>We are always available for a chat</p>
 				</div>
 			</div>
 			<div class="col-xl-3">
 				<div class="slogan-btn-box">
-					<a class="btn-one" href="contact.html">
+					<a class="btn-one" href="/contact">
 						<span class="txt">
 							discover more<i class="icon-refresh arrow"></i>
 						</span>

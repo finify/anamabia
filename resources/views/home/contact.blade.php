@@ -3,7 +3,7 @@
 @section('content')
 <!--Start breadcrumb area paroller-->
 <section class="breadcrumb-area">
-	<div class="breadcrumb-area-bg" style="background-image: url(assets/images/breadcrumb/breadcrumb-1.jpg);">
+	<div class="breadcrumb-area-bg" style="background-image: url(homeassets/images/parallax-background/features-v3-bg.jpg);">
 	</div>
 	<div class="container">
 		<div class="row">
@@ -11,7 +11,7 @@
 				<div class="inner-content">
 					<div class="breadcrumb-menu" data-aos="fade-down" data-aos-easing="linear" data-aos-duration="1500">
 						<ul>
-							<li><a href="index.html">Home</a></li>
+							<li><a href="/">Home</a></li>
 							<li class="active">Contact</li>
 						</ul>
 					</div>
@@ -32,8 +32,7 @@
 	<div class="auto-container">
 		<div class="contact-page-map-outer">
 			<!--Map Canvas-->
-			<div class="map-canvas" data-zoom="12" data-lat="-37.817085" data-lng="144.955631" data-type="roadmap" data-hue="#ffc400" data-title="Envato" data-icon-path="assets/images/icon/map-marker.png" data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-			</div>
+			<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1013.2313509868343!2d7.042160269567847!3d4.892166735912102!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1069d25168b12b23%3A0x9078904bd705994!2sRexon%20Eye%20Clinic!5e1!3m2!1sen!2sng!4v1693609842048!5m2!1sen!2sng" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 		</div>
 	</div>
 </section>

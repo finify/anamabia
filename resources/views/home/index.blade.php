@@ -22,7 +22,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
+                                    <a class="btn-one" href="/contact">
                                         <span class="txt">
                                             discover more<i class="icon-refresh arrow"></i>
                                         </span>
@@ -47,7 +47,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
+                                    <a class="btn-one" href="/contact">
                                         <span class="txt">
                                             discover more<i class="icon-refresh arrow"></i>
                                         </span>
@@ -72,7 +72,7 @@
                                     </h2>
                                 </div>
                                 <div class="btns-box">
-                                    <a class="btn-one" href="about.html">
+                                    <a class="btn-one" href="/contact">
                                         <span class="txt">
                                             discover more<i class="icon-refresh arrow"></i>
                                         </span>
@@ -101,7 +101,7 @@
                                             <span class="icon-dustbin"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="services-single-1.html">Dumpster Sizes</a></h3>
+                                            <h3><a href="javascript:void(0)">Dumpster Sizes</a></h3>
                                             <p>We offers a range of dumpster sizes to suit your specific needs.</p>
                                         </div>
                                     </div>
@@ -113,7 +113,7 @@
                                             <span class="icon-garbage-can"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="services-single-2.html">Waste Collection</a></h3>
+                                            <h3><a href="javascript:void(0)">Waste Collection</a></h3>
                                             <p>Our waste collection services are designed with your convenience in mind</p>
                                         </div>
                                     </div>
@@ -125,7 +125,7 @@
                                             <span class="icon-calendar"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="services-single-3.html">Pickup Schedule</a></h3>
+                                            <h3><a href="javascript:void(0)">Pickup Schedule</a></h3>
                                             <p>With our flexible pickup schedule, you're in control of your waste management.</p>
                                         </div>
                                     </div>
@@ -412,14 +412,14 @@
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-features-style2-box">
                             <div class="img-bg"
-                                style="background-image: url(homeassets/images/anamabia/aimage2.jpg);"></div>
+                                style="background-image: url(homeassets/images/anamabia/aimage2.jpg); background-position:left!important;"></div>
                         </div>
                     </div>
 
                     <div class="col-xl-6 col-lg-6">
                         <div class="single-features-style2-box">
                             <div class="img-bg"
-                                style="background-image: url(homeassets/images/anamabia/aimage3.jpg);"></div>
+                                style="background-image: url(homeassets/images/anamabia/aimage3.jpg); background-position:right!important;"></div>
                         </div>
                     </div>
 
@@ -449,7 +449,7 @@
 
 
         <!--Start Choose Style1 Area-->
-        <section class="choose-style1-area">
+        <!-- <section class="choose-style1-area">
             <div class="container">
                 <div class="row">
 
@@ -462,7 +462,7 @@
                                 <h2>We only Provide<br> Quality Waste<br> Services</h2>
                             </div>
                             <div class="btn-box">
-                                <a class="btn-one" href="contact.html">
+                                <a class="btn-one" href="tel:2348033132557">
                                     <span class="txt">
                                         book now<i class="icon-refresh arrow"></i>
                                     </span>
@@ -487,19 +487,18 @@
 
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End Choose Style1 Area-->
 
 
         <!--Start Fact Counter Area-->
-        <section class="fact-counter-area">
+        <!-- <section class="fact-counter-area">
             <div class="fact-counter-area-bg"
                 style="background-image: url(homeassets/images/parallax-background/service-style1.jpg);"></div>
             <div class="container">
                 <div class="row">
                     <div class="col-xl-12">
                         <ul class="fact-counter-box">
-                            <!--Start Single Fact Counter-->
                             <li class="single-fact-counter">
                                 <div class="inner">
                                     <div class="count-outer count-box">
@@ -509,12 +508,8 @@
                                 </div>
                                 <div class="title">
                                     <h3>Industries Served</h3>
-                                    <!-- <p>Lorem Ipsum is simply dummy text of the new des dummy text of the printng and
-                                        type.</p> -->
                                 </div>
                             </li>
-                            <!--End Single Fact Counter-->
-                            <!--Start Single Fact Counter-->
                             <li class="single-fact-counter">
                                 <div class="inner">
                                     <div class="count-outer count-box">
@@ -523,11 +518,8 @@
                                 </div>
                                 <div class="title">
                                     <h3>Professional Workers</h3>
-                                    <!-- <p>Lorem Ipsum is simply dummy text of the new des printng and type.</p> -->
                                 </div>
                             </li>
-                            <!--End Single Fact Counter-->
-                            <!--Start Single Fact Counter-->
                             <li class="single-fact-counter">
                                 <div class="inner">
                                     <div class="count-outer count-box">
@@ -537,11 +529,8 @@
                                 </div>
                                 <div class="title">
                                     <h3>Waste Mangements</h3>
-                                    <!-- <p>Lorem Ipsum is simply dummy text of the new des printng and type.</p> -->
                                 </div>
                             </li>
-                            <!--End Single Fact Counter-->
-                            <!--Start Single Fact Counter-->
                             <li class="single-fact-counter">
                                 <div class="inner">
                                     <div class="count-outer count-box">
@@ -551,16 +540,14 @@
                                 </div>
                                 <div class="title">
                                     <h3>Customers are Happy</h3>
-                                    <!-- <p>Lorem Ipsum text of the new is simply dummy text of the new des printng and type.
-                                    </p> -->
+                                 
                                 </div>
                             </li>
-                            <!--End Single Fact Counter-->
                         </ul>
                     </div>
                 </div>
             </div>
-        </section>
+        </section> -->
         <!--End Fact Counter Area-->
 
         <!--Start Blog Style1 Area-->
@@ -579,21 +566,19 @@
                             </div>
                             <div class="phone">
                                 <p>Have any questions?</p>
-                                <a href="tel:123456789">+1-(246) 333-0089</a>
+                                <a href="tel:+2348033132557">+2348033132557</a>
                             </div>
                         </div>
                     </div>
 
                     <div class="col-xl-4 col-lg-12">
                         <div class="slogan-text-box">
-                            <p>Lorem ipsum dolor sit amet nsectetur
-                                cing elituspe ndisse suscipit sagitis
-                                leo sit.</p>
+                            <p>We are always available to chat</p>
                         </div>
                     </div>
                     <div class="col-xl-3 col-lg-12">
                         <div class="slogan-btn-box">
-                            <a class="btn-one" href="about.html">
+                            <a class="btn-one" href="/about">
                                 <span class="txt">
                                     discover more<i class="icon-refresh arrow"></i>
                                 </span>
