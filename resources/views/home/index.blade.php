@@ -18,7 +18,7 @@
                                 </div>
                                 <div class="big-title">
                                     <h2>
-                                        Home Trash &<br> Recycling <span>Pickup</span><br> Company
+                                    Municipal <br><span>waste collection</span>
                                     </h2>
                                 </div>
                                 <div class="btns-box">
@@ -43,7 +43,7 @@
                                 </div>
                                 <div class="big-title">
                                     <h2>
-                                        Waste Management.<br> Dumpster Rentals.<br> Garbage Pickup.
+                                        Dumpsite management<br>  and Recycling
                                     </h2>
                                 </div>
                                 <div class="btns-box">
@@ -58,7 +58,7 @@
                     </div>
 
                     <!-- Slide -->
-                    <div class="slide">
+                    <!-- <div class="slide">
                         <div class="image-layer" style="background-image:url(homeassets/images/slides/slide-v1-3.jpg)">
                         </div>
                         <div class="auto-container">
@@ -80,7 +80,7 @@
                                 </div>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
 
                 </div>
             </div>
@@ -101,8 +101,8 @@
                                             <span class="icon-dustbin"></span>
                                         </div>
                                         <div class="text-holder">
-                                            <h3><a href="javascript:void(0)">Dumpster Sizes</a></h3>
-                                            <p>We offers a range of dumpster sizes to suit your specific needs.</p>
+                                            <h3><a href="javascript:void(0)">Dumpsite management </a></h3>
+                                            <p>We offer innovative solutions for sustainable waste management. </p>
                                         </div>
                                     </div>
                                 </li>
@@ -175,7 +175,7 @@
                                 <div class="sub-title">
                                     <h3>Get to Know About Us</h3>
                                 </div>
-                                <h2>We’re Leader in Waste<br> Management Services</h2>
+                                <h2>We aim to be a leader in waste management services.</h2>
                             </div>
                             <div class="inner-content">
                                 <div class="text">
@@ -295,7 +295,7 @@
                 </div>
                 <div class="row text-right-rtl">
                     <!--Start Single Service Style1-->
-                    <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"
+                    <!-- <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"
                         data-wow-duration="1500ms">
                         <div class="single-service-style1">
                             <div class="inner">
@@ -312,7 +312,7 @@
                                 <a href="javascript: void(0)"><span class="icon-right-arrow"></span></a>
                             </div>
                         </div>
-                    </div>
+                    </div> -->
                     <!--End Single Service Style1-->
                     <!--Start Single Service Style1-->
                     <div class="col-xl-3 col-lg-6 col-md-6 wow fadeInUp" data-wow-delay="00ms"

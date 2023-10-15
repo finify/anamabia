@@ -71,7 +71,7 @@
 						<p>Sustainable waste management is major challenge in west Africa and if left unattended could have severe implications for the Environment. Anamabia Nigeria Limited was established to deliver effective waste management by applying best in class innovative solutions.</p>
 					</div>
 
-					<div class="author-box">
+					<!-- <div class="author-box">
 						<div class="img-box">
 							<img src="homeassets/images/about/about-style2__author-img.png" alt="">
 						</div>
@@ -80,7 +80,7 @@
 							<h2>Engr. Okenwa Chudi</h2>
 							<span>Founder and CEO</span>
 						</div>
-					</div>
+					</div> -->
 
 				</div>
 			</div>
@@ -109,14 +109,14 @@
 					</li>
 					<!--End Single Partner Logo Box-->
 					<!--Start Single Partner Logo Box-->
-					<li class="single-partner-logo-box">
+					<!-- <li class="single-partner-logo-box">
 						<a href="#"><img src="homeassets/images/brand/wasteco.png" alt="Awesome Image"></a>
-					</li>
+					</li> -->
 					<!--End Single Partner Logo Box-->
 					<!--Start Single Partner Logo Box-->
-					<li class="single-partner-logo-box">
+					<!-- <li class="single-partner-logo-box">
 						<a href="#"><img src="homeassets/images/brand/wm.png" alt="Awesome Image"></a>
-					</li>
+					</li> -->
 					<!--End Single Partner Logo Box-->
 					<!--Start Single Partner Logo Box-->
 					<!-- <li class="single-partner-logo-box">
@@ -143,16 +143,16 @@
 						<div class="sub-title">
 							<h3>What We Can Recycle?</h3>
 						</div>
-						<h2>One of the Largest Full <br> Service Provider of Solid <br> Waste Collection</h2>
+						<!-- <h2>One of the Largest Full <br> Service Provider of Solid <br> Waste Collection</h2> -->
 					</div>
 
-					<div class="video-btn">
+					<!-- <div class="video-btn">
 						<div class="icon wow zoomIn animated animated" data-wow-delay="300ms" data-wow-duration="1500ms" style="visibility: visible; animation-duration: 1500ms; animation-delay: 300ms; animation-name: zoomIn;">
 							<a class="video-popup" title="Video Gallery" href="https://www.youtube.com/watch?v=MLpWrANjFbI">
 								<span class="icon-play-buttton"></span>
 							</a>
 						</div>
-					</div>
+					</div> -->
 				</div>
 			</div>
 			<!--End Features Style3 Content-->
@@ -163,43 +163,21 @@
 				<div class="features-style3__list">
 					<ul>
 						<li>
-							<span class="icon-arrow-right"></span> Steel
-						</li>
-						<li>
 							<span class="icon-arrow-right"></span> Plastic
-						</li>
-						<li>
-							<span class="icon-arrow-right"></span> Lights & Bulbs
-						</li>
-						<li>
-							<span class="icon-arrow-right"></span> Large Trash
-						</li>
-						<li>
-							<span class="icon-arrow-right"></span> Common Waste
 						</li>
 						<li>
 							<span class="icon-arrow-right"></span> Aluminium
 						</li>
 						<li>
-							<span class="icon-arrow-right"></span> Jugs & Jars
-						</li>
-					</ul>
-					<ul class="style2">
-						<li>
-							<span class="icon-arrow-right"></span> Bottles
+							<span class="icon-arrow-right"></span> news papers
 						</li>
 						<li>
-							<span class="icon-arrow-right"></span> Food & Grocery
+							<span class="icon-arrow-right"></span> books and papers
 						</li>
 						<li>
-							<span class="icon-arrow-right"></span> Electronics & Glasss
+							<span class="icon-arrow-right"></span> bottles
 						</li>
-						<li>
-							<span class="icon-arrow-right"></span> Newspaper
-						</li>
-						<li>
-							<span class="icon-arrow-right"></span>Books & Papers
-						</li>
+						
 					</ul>
 				</div>
 			</div>
@@ -230,16 +208,13 @@
 							<img src="homeassets/images/team/team-v1-1.jpg" alt="" />
 						</div>
 						<div class="title-holder text-center">
-							<h2><a href="#">Engr. Chudi Okenwa</a></h2>
-							<h3>Founder & CEO</h3>
+							<h2><a href="#">Mrs OE Okenwa</a></h2>
+							<h3>Director</h3>
 							<div class="overlay-title">
-								<h2><a href="#">Engr. Chudi Okenwa</a></h2>
-								<h3>Founder & CEO</h3>
-								<ul class="social-links">
-									<li><a href="#"><i class="icon-twitter"></i></a></li>
-									<li><a href="#"><i class="icon-facebook"></i></a></li>
-									<li><a href="#"><i class="icon-instagram"></i></a></li>
-								</ul>
+								<h2><a href="#">Mrs OE Okenwa</a></h2>
+								<h3>Director</h3>
+								<h6>Mrs Okenwa is a chartered accountant with over 25 years experience and has held leadership positions in Nigerian gas. </h6>
+								
 							</div>
 						</div>
 					</div>
@@ -255,16 +230,13 @@
 							<img src="homeassets/images/team/team-v1-2.jpg" alt="" />
 						</div>
 						<div class="title-holder text-center">
-							<h2><a href="#">Dame Eunice Okenwa</a></h2>
-							<h3>Chief Accountant</h3>
+							<h2><a href="#">Mr CB Ifeobu </a></h2>
+							<h3>Operations Manager</h3>
 							<div class="overlay-title">
-								<h2><a href="#">Aleesha Brown</a></h2>
-								<h3>Chief Accountant</h3>
-								<ul class="social-links">
-									<li><a href="#"><i class="icon-twitter"></i></a></li>
-									<li><a href="#"><i class="icon-facebook"></i></a></li>
-									<li><a href="#"><i class="icon-instagram"></i></a></li>
-								</ul>
+								<h2><a href="#">Mr CB Ifeobu </a></h2>
+								<h3>Operations Manager</h3>
+								<h6>Mr Ifeobu is an electrical engineer with experience ranging from routine maintainance with power holding Nigerian company to IT engineer and business developer with 4eleven technologies. He is passionate  with innovation and technology . </h6>
+								
 							</div>
 						</div>
 					</div>
@@ -273,7 +245,7 @@
 			<!--End Single Team Style1-->
 
 			<!--Start Single Team Style1-->
-			<div class="col-xl-4 col-lg-4">
+			<!-- <div class="col-xl-4 col-lg-4">
 				<div class="single-team-style1">
 					<div class="img-holder">
 						<div class="inner">
@@ -294,7 +266,7 @@
 						</div>
 					</div>
 				</div>
-			</div>
+			</div> -->
 			<!--End Single Team Style1-->
 
 		</div>
