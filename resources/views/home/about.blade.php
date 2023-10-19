@@ -205,7 +205,7 @@
 				<div class="single-team-style1">
 					<div class="img-holder">
 						<div class="inner">
-							<img src="homeassets/images/team/team-v1-1.jpg" alt="" />
+							<img src="homeassets/images/team/okenwa.jpeg" alt="" />
 						</div>
 						<div class="title-holder text-center">
 							<h2><a href="#">Mrs OE Okenwa</a></h2>
@@ -227,7 +227,7 @@
 				<div class="single-team-style1 active">
 					<div class="img-holder">
 						<div class="inner">
-							<img src="homeassets/images/team/team-v1-2.jpg" alt="" />
+							<img src="homeassets/images/team/bobby.jpeg" alt="" />
 						</div>
 						<div class="title-holder text-center">
 							<h2><a href="#">Mr CB Ifeobu </a></h2>

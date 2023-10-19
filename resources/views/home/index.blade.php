@@ -187,6 +187,24 @@
                                     <div class="progress-box wow">
                                         <div class="inner count-box">
                                             <div class="top">
+                                                <div class="text">Waste Collection</div>
+                                                <div class="skill-percent">
+                                                    <span class="count-text" data-speed="3000" data-stop="95">0</span>
+                                                    <span class="percent">%</span>
+                                                </div>
+                                            </div>
+                                            <div class="bar">
+                                                <div class="bar-innner">
+                                                    <div class="bar-fill" data-percent="95"></div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!--End Progress Box-->
+                                    <!--Start Progress Box-->
+                                    <div class="progress-box wow">
+                                        <div class="inner count-box">
+                                            <div class="top">
                                                 <div class="text">Recycling</div>
                                                 <div class="skill-percent">
                                                     <span class="count-text" data-speed="3000" data-stop="77">0</span>
@@ -205,7 +223,7 @@
                                     <div class="progress-box wow">
                                         <div class="inner count-box">
                                             <div class="top">
-                                                <div class="text">Waste Services</div>
+                                                <div class="text">Dumpsite Management</div>
                                                 <div class="skill-percent">
                                                     <span class="count-text" data-speed="3000" data-stop="90">0</span>
                                                     <span class="percent">%</span>
