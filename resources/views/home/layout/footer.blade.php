@@ -156,7 +156,7 @@
             <div class="container">
                 <div class="bottom-inner">
                     <div class="copyright">
-                        <p>Copyright &copy; 2023 <a href="/">Anamabia</a> All Rights Reserved.</p> <br>
+                        <p>Copyright &copy; 2025 <a href="/">Anamabia</a> All Rights Reserved.</p> <br>
                         <p>Designed by <a href="/">Finify Technologies</a> </p>
                     </div>
                 </div>
