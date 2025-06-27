@@ -95,6 +95,7 @@ jobs:
               php artisan key:generate
             fi    
 
+            
       - name: Pulling New Updates
         uses: appleboy/ssh-action@master
         with:
