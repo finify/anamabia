@@ -50,32 +50,6 @@ jobs:
           composer install --no-dev --optimize-autoloader
           yarn install 
 
-      - name: Build Assets
-        run: |
-          #copy vite.config.example.js to vite.config.js
-          cp vite.config.example.js vite.config.js
-          yarn build
-
-      - name: Deploy Only `public/build` Folder via FTP (Staging)
-        if: github.ref == 'refs/heads/staging'
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
-        with:
-          server: ${{ secrets.CPANEL_HOST }}
-          username: ${{ secrets.CPANEL_USER }}
-          password: ${{ secrets.CPANEL_PASSWORD }}
-          local-dir: public/build/
-          server-dir: ${{ secrets.STAGING_PATH }}/public/build/
-    
-      - name: Deploy Only `public/build` Folder via FTP (Production)
-        if: github.ref == 'refs/heads/master'
-        uses: SamKirkland/FTP-Deploy-Action@4.3.0
-        with:
-          server: ${{ secrets.CPANEL_HOST }}
-          username: ${{ secrets.CPANEL_USER }}
-          password: ${{ secrets.CPANEL_PASSWORD }}
-          local-dir: public/build/
-          server-dir: ${{ secrets.PRODUCTION_PATH }}/public/build/
-
       - name: Laravel Setup via SSH
         uses: appleboy/ssh-action@master
         with:
